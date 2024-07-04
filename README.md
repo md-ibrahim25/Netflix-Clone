@@ -8,10 +8,6 @@ A responsive Netflix clone built using HTML and CSS, designed to work seamlessly
 - **Static UI:** Implements the visual aspects of Netflix's homepage using only HTML and CSS.
 - **Modern CSS Techniques:** Utilizes Flexbox and Grid for layout, as well as media queries for responsiveness.
 
-## Screenshots
-
-Include screenshots of your project here to give visitors a preview of your work.
-
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
@@ -25,4 +21,4 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your-username/netflix-clone.git
+   git clone https://github.com/md-ibrahim25/Netflix-Clone.git
